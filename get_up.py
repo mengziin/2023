@@ -6,8 +6,8 @@ import json
 
 from github import Github
 
-# the morning issue index is 1
-GET_UP_ISSUE_NUMBER = 1
+# the morning issue index is 4
+GET_UP_ISSUE_NUMBER = 4
 GET_UP_MESSAGE_TEMPLATE = (
     "今天的起床时间是--{get_up_time}.\r\n\r\n 起床啦，背个单词，锻炼身体。\r\n\r\n 今天的一句诗:\r\n {sentence}"
 )
