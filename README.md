@@ -4,16 +4,13 @@
 ## 我的数字
 
 <!--START_SECTION:my_number-->
-
 <!--END_SECTION:my_number-->
 
 ## 读书
 
-<!--START_SECTION:my_read--> 
-
+<!--START_SECTION:my_read-->
 <!--END_SECTION:my_read-->
 
 ## 写博客
 <!--START_SECTION:my_blog-->
-
 <!--END_SECTION:my_blog-->
