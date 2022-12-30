@@ -17,3 +17,8 @@
 <!--START_SECTION:my_blog-->
 
 <!--END_SECTION:my_blog-->
+
+## 俯卧撑记录
+<!--START_SECTION:my_pushups-->
+
+<!--END_SECTION:my_pushups-->
