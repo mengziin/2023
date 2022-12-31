@@ -12,6 +12,7 @@
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 | [《当我们不再理解世界》](https://github.com/mengziin/2023/issues/8#issuecomment-1367855340) | 2022-12-30 | 2022-12-30 | 
+| [《肠子的小心思》](https://github.com/mengziin/2023/issues/8#issuecomment-1368182156) | 2022-12-31 | 2022-12-31 | 
 
 <!--END_SECTION:my_read-->
 
