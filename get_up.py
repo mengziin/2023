@@ -36,7 +36,7 @@ def get_today_get_up_status(issue):
     if not comments:
         return False
     latest_comment = comments[-1]
-    now = pendulsnum.now(TIMEZONE)
+    now = pendulum.now(TIMEZONE)
     latest_day = pendulum.instance(latest_comment.created_at).in_timezone(
         "Asia/Shanghai"
     )
