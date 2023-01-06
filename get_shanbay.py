@@ -4,8 +4,8 @@ import pendulum
 
 from github import Github
 
-# the shanbay issue index is 11
-GET_UP_ISSUE_NUMBER = 11
+# the shanbay issue index is 12
+GET_UP_ISSUE_NUMBER = 12
 SHANBAY_USERNAME = "zlurjj"
 SHANBAY_API = f"https://apiv3.shanbay.com/uc/checkin/logs?user_id={SHANBAY_USERNAME}&ipp=10&page=1"
 SHANBAY_RECORD_MESSAGE = (
@@ -22,10 +22,10 @@ def login(token):
 
 def get_today_get_up_status(issue):
     comments = list(issue.get_comments())
+
     if not comments:
         return False
-    if len(comments) == 0:
-        return True
+
     latest_comment = comments[-1]
     now = pendulum.now(TIMEZONE)
     latest_day = pendulum.instance(latest_comment.created_at).in_timezone(
@@ -69,21 +69,25 @@ def main(github_token, repo_name):
     body = get_latest_record()
 
     if is_toady:
-        issue.create_comment(body)
-
-    else:
         comment = list(issue.get_comments())[-1]
         comment.edit(body)
+    else:
+        issue.create_comment(body)
+
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("github_token", help="github_token")
-    parser.add_argument("repo_name", help="repo_name")
-
-    options = parser.parse_args()
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument("github_token", help="github_token")
+    # parser.add_argument("repo_name", help="repo_name")
+    #
+    # options = parser.parse_args()
+    # main(
+    #     options.github_token,
+    #     options.repo_name,
+    # )
     main(
-        options.github_token,
-        options.repo_name,
+        "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",
+        "mengziin/2023"
     )
 
