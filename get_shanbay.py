@@ -75,19 +75,14 @@ def main(github_token, repo_name):
         issue.create_comment(body)
 
 
-
 if __name__ == "__main__":
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument("github_token", help="github_token")
-    # parser.add_argument("repo_name", help="repo_name")
-    #
-    # options = parser.parse_args()
-    # main(
-    #     options.github_token,
-    #     options.repo_name,
-    # )
+    parser = argparse.ArgumentParser()
+    parser.add_argument("github_token", help="github_token")
+    parser.add_argument("repo_name", help="repo_name")
+
+    options = parser.parse_args()
     main(
-        "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",
-        "mengziin/2023"
+        options.github_token,
+        options.repo_name,
     )
 
