@@ -19,7 +19,11 @@ SQUAT_LABEL_LIST = [
 ]
 
 PULLUP_LABEL_LIST = [
-    "PullUps"
+    "PullUps",
+]
+
+SHANBAY_LABEL_LIST = [
+    "Shanbay",
 ]
 
 MY_BLOG_REPO = "mengziin/gitblog"

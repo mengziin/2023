@@ -13,6 +13,7 @@ from .config import (
     PULLUP_LABEL_LIST,
     SQUAT_LABEL_LIST,
     WEEKLY_LABEL_LIST,
+    SHANBAY_LABEL_LIST,
 )
 
 
@@ -127,4 +128,5 @@ LABEL_DAILY_DICT = {
     "深蹲": [SQUAT_LABEL_LIST, comment_to_int, sum],
     "早起": [MORNING_LABEL_LIST, commnet_to_count, len],  # Do Nothing
     "周记": [WEEKLY_LABEL_LIST, commnet_to_count, len],  # Do Nothing
+    "扇贝": [SHANBAY_LABEL_LIST, commnet_to_count, len],
 }
