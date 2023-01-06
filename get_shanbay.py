@@ -4,8 +4,8 @@ import pendulum
 
 from github import Github
 
-# the shanbay issue index is 9
-GET_UP_ISSUE_NUMBER = 9
+# the shanbay issue index is 10
+GET_UP_ISSUE_NUMBER = 10
 SHANBAY_USERNAME = "zlurjj"
 SHANBAY_API = f"https://apiv3.shanbay.com/uc/checkin/logs?user_id={SHANBAY_USERNAME}&ipp=10&page=1"
 SHANBAY_RECORD_MESSAGE = (
@@ -25,7 +25,7 @@ def get_today_get_up_status(issue):
     if not comments:
         return False
     if len(comments) == 1:
-        return False
+        return True
     latest_comment = comments[-1]
     now = pendulum.now(TIMEZONE)
     latest_day = pendulum.instance(latest_comment.created_at).in_timezone(
