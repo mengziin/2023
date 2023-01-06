@@ -71,7 +71,8 @@ def main(github_token, repo_name):
     if is_toady:
         issue.create_comment(body)
         return
-    issue.edit(body)
+    comment = list(issue.get_comments())[-1]
+    comment.edit(body)
 
 
 if __name__ == "__main__":
