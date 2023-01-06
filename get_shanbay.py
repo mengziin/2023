@@ -24,6 +24,8 @@ def get_today_get_up_status(issue):
     comments = list(issue.get_comments())
     if not comments:
         return False
+    if len(comments) == 1:
+        return False
     latest_comment = comments[-1]
     now = pendulum.now(TIMEZONE)
     latest_day = pendulum.instance(latest_comment.created_at).in_timezone(
@@ -82,4 +84,3 @@ if __name__ == "__main__":
         options.github_token,
         options.repo_name,
     )
-
