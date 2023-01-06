@@ -1,4 +1,4 @@
-name: GET UP
+name: GET SHANBAY
 
 on:
   workflow_dispatch:
