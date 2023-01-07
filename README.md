@@ -9,9 +9,9 @@
 | [俯卧撑](https://github.com/mengziin/2023/issues/5) | 21 (个) | 0 | NO |
 | [深蹲]() | None (个) | 0 | NO |
 | [引体向上](https://github.com/mengziin/2023/issues/6) | None (个) | 0 | NO |
-| [周记](https://github.com/mengziin/2023/issues/7) | 1 (周) | 1 | NO |
-| [早起](https://github.com/mengziin/2023/issues/4) | 4 (天) | 3 | YES |
-| [扇贝](https://github.com/mengziin/2023/issues/12) | 1 (天) | 1 | YES |
+| [周记](https://github.com/mengziin/2023/issues/7) | 1 (周) | 0 | NO |
+| [早起](https://github.com/mengziin/2023/issues/4) | 5 (天) | 4 | YES |
+| [扇贝](https://github.com/mengziin/2023/issues/12) | 1 (天) | 1 | NO |
 
 <!--END_SECTION:my_number-->
 
