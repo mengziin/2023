@@ -32,6 +32,7 @@
 <!--START_SECTION:my_blog-->
 | Name | Start | Update | Comments | 
  | ---- | ---- | ---- | ---- |
+| [假期余额不足](https://github.com/mengziin/gitblog/issues/13) | 2023-01-27 | 2023-01-27 | 0 | 
 | [今天扇贝打卡的一句话](https://github.com/mengziin/gitblog/issues/12) | 2023-01-13 | 2023-01-13 | 0 | 
 
 <!--END_SECTION:my_blog-->
