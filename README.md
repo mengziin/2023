@@ -11,7 +11,7 @@
 | [引体向上](https://github.com/mengziin/2023/issues/6) | None (个) | 0 | NO |
 | [周记](https://github.com/mengziin/2023/issues/7) | 2 (周) | 0 | NO |
 | [早起](https://github.com/mengziin/2023/issues/4) | 26 (天) | 3 | YES |
-| [扇贝](https://github.com/mengziin/2023/issues/12) | 22 (天) | 10 | NO |
+| [扇贝](https://github.com/mengziin/2023/issues/12) | 23 (天) | 11 | YES |
 
 <!--END_SECTION:my_number-->
 
