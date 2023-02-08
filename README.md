@@ -10,8 +10,8 @@
 | [深蹲]() | None (个) | 0 | NO |
 | [引体向上](https://github.com/mengziin/2023/issues/6) | None (个) | 0 | NO |
 | [周记](https://github.com/mengziin/2023/issues/7) | 2 (周) | 0 | NO |
-| [早起](https://github.com/mengziin/2023/issues/4) | 27 (天) | 4 | YES |
-| [扇贝](https://github.com/mengziin/2023/issues/12) | 23 (天) | 11 | NO |
+| [早起](https://github.com/mengziin/2023/issues/4) | 28 (天) | 5 | YES |
+| [扇贝](https://github.com/mengziin/2023/issues/12) | 23 (天) | 0 | NO |
 
 <!--END_SECTION:my_number-->
 
