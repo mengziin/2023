@@ -25,6 +25,7 @@
 | [《读库2101》](https://github.com/mengziin/2023/issues/8#issuecomment-1368738661) | 2023-01-02 | 2023-01-02 | 
 | [《读库2102》](https://github.com/mengziin/2023/issues/8#issuecomment-1379981310) | 2023-01-12 | 2023-01-12 | 
 | [《工作，消费主义与新穷人》](https://github.com/mengziin/2023/issues/8#issuecomment-1403047339) | 2023-01-25 | 2023-01-27 | 
+| [《FreeSWITCH权威指南》](https://github.com/mengziin/2023/issues/8#issuecomment-1423731943) | 2023-02-09 | 2023-02-09 | 
 
 <!--END_SECTION:my_read-->
 
