@@ -27,6 +27,7 @@
 | [《工作，消费主义与新穷人》](https://github.com/mengziin/2023/issues/8#issuecomment-1403047339) | 2023-01-25 | 2023-01-27 | 
 | [《FreeSWITCH权威指南》](https://github.com/mengziin/2023/issues/8#issuecomment-1423731943) | 2023-02-09 | 2023-02-09 | 
 | [《读库2205》](https://github.com/mengziin/2023/issues/8#issuecomment-1445748044) | 2023-02-27 | 2023-02-27 | 
+| [《Wireshark数据包分析实战(第三版)》](https://github.com/mengziin/2023/issues/8#issuecomment-1664923821) | 2023-08-04 | 2023-08-04 | 
 
 <!--END_SECTION:my_read-->
 
